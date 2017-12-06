@@ -1,0 +1,10 @@
+#!/bin/sh
+(set -o igncr) 2>/dev/null && set -o igncr; # cygwin encoding fix
+
+basedir=`dirname "$0"`
+
+NODE_EXE=node
+
+NPM_CLI_JS="$basedir/../lib/node_modules/npm/bin/npm-cli.js"
+
+"$NODE_EXE" "$NPM_CLI_JS" "$@"
