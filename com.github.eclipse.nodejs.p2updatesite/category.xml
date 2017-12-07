@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/com.github.eclipse.nodejs.feature_9.2.0.qualifier.jar" id="com.github.eclipse.nodejs.feature" version="9.2.0.qualifier"/>
+   <bundle id="com.github.eclipse.nodejs.core" version="9.2.0.qualifier">
+      <category name="com.github.eclipse.nodejs"/>
+   </bundle>
+   <category-def name="com.github.eclipse.nodejs" label="NodeJs"/>
+   <repository-reference location="http://https://alpapad.github.io/jackson/repository/" enabled="true" />
+</site>

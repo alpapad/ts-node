@@ -23,6 +23,7 @@
 	    <module>com.github.eclipse.nodejs.core</module>
 	    <module>com.github.eclipse.nodejs.feature</module>
 		<module>arch</module>
+		<module>com.github.eclipse.nodejs.p2updatesite</module>
 	</modules>
 
 	<properties>
