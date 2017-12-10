@@ -9,7 +9,7 @@
         IBM Corporation - initial API and implementation
  -->
 <plugin>
-    <extension point="com.github.eclipse.ts.core.nodeJs" >
+    <extension point="com.github.eclipse.nodejs.core.nodeJs" >
         <instance
             id="linux-x86_x4"
             name="Node V9.2.0"
