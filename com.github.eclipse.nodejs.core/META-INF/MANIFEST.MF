@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Bundle-Localization: plugin
 Bundle-ManifestVersion: 2
-Bundle-Name: TypeScript Core
+Bundle-Name: NodeJS Core
 Bundle-SymbolicName: com.github.eclipse.nodejs.core;singleton:=true
 Bundle-Version: 9.2.0.qualifier
 Bundle-Activator: com.github.eclipse.nodejs.core.NodeJsCorePlugin
