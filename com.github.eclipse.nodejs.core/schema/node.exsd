@@ -74,6 +74,13 @@
                </documentation>
             </annotation>
          </attribute>
+         <attribute name="max-old-space-size" type="string" use="default" value="8192">
+            <annotation>
+               <documentation>
+                  max-old-space-size
+               </documentation>
+            </annotation>
+         </attribute>
       </complexType>
    </element>
 

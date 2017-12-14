@@ -32,6 +32,8 @@ public class NodeJsCorePlugin extends Plugin {
 
 	public static final String PluginId = "com.github.eclipse.nodejs.core";
 
+	public static final String TsCorePluginId = "com.github.eclipse.ts.core";
+	
 	private static NodeJsCorePlugin PLUGIN;
 
 	private IPreferenceStore preferenceStore;

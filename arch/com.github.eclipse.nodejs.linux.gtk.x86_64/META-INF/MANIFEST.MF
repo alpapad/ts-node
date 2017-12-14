@@ -5,7 +5,7 @@ Bundle-SymbolicName: com.github.eclipse.nodejs.linux.gtk.x86_64;singleton:=true
 Bundle-Version: 9.2.0.qualifier
 Bundle-Vendor: The Node.js Foundation
 Bundle-RequiredExecutionEnvironment: JavaSE-1.8
-Require-Bundle: com.github.eclipse.nodejs.core;bundle-version="9.2.0"
+Require-Bundle: com.github.eclipse.nodejs.core
 Bundle-ActivationPolicy: lazy
 Eclipse-BundleShape: dir
 Eclipse-PlatformFilter: (&(osgi.ws=gtk)(osgi.os=linux))

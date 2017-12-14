@@ -65,6 +65,10 @@ public class NodeJsManager implements IRegistryChangeListener {
         }
     }
 
+    /**
+     * FIXME: This should take an argument with the ID of the calling plugin. Currently we hard coded the TsCorePluginId!
+     * @return
+     */
     public NodeJs[] getNodejsInstalls() {
         if (nodeJSInstalls == null) {
             load();
@@ -75,6 +79,10 @@ public class NodeJsManager implements IRegistryChangeListener {
         return st;
     }
 
+    /**
+     * FIXME: This should take an extra argument with the ID of the calling plugin. Currently we hard coded the TsCorePluginId!
+     * @return
+     */
     public NodeJs findNodejsInstall(String id) {
         if (id == null) {
             throw new IllegalArgumentException();
@@ -92,6 +100,10 @@ public class NodeJsManager implements IRegistryChangeListener {
         return null;
     }
 
+    /**
+     * FIXME: This should take an argument with the ID of the calling plugin. Currently we hard coded the TsCorePluginId!
+     * @return
+     */
     public NodeJs getConfiguration() {
         NodeJs[] instances = NodeJsManager.getManager().getNodejsInstalls();
         if(instances != null && instances.length > 0) {

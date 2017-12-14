@@ -29,7 +29,7 @@ import com.github.eclipse.nodejs.core.preferences.IPreferenceConstants;
 public class DefNodeJs extends NodeJs {
 
     protected DefNodeJs() {
-        super(NodeJsCorePlugin.PluginId, "PREFERENCES", null, null, null);
+        super(NodeJsCorePlugin.TsCorePluginId, "PREFERENCES", null, null, null, 8192);
     }
 
     @Override

@@ -5,5 +5,5 @@
       <category name="com.github.eclipse.nodejs"/>
    </bundle>
    <category-def name="com.github.eclipse.nodejs" label="NodeJs"/>
-   <repository-reference location="http://https://alpapad.github.io/jackson/repository/" enabled="true" />
+   <repository-reference location="http://https://alpapad.github.io/eclipse-nodejs/repository/" enabled="true" />
 </site>

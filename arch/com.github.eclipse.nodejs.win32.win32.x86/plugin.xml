@@ -4,6 +4,8 @@
             id="win-x86"
             name="Node V9.2.0"
             nodeJs="/bin/node.exe"
-            npm="/bin/npm.cmd"/>
+            npm="/bin/npm.cmd"
+            max-old-space-size ="2048"
+            />
      </extension>
 </plugin>
