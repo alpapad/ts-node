@@ -29,7 +29,7 @@
 	<properties>
 		<tycho.version>1.0.0</tycho.version>
 		<tycho-extras.version>1.0.0</tycho-extras.version>
-		<eclipse-repo.url>http://download.eclipse.org/releases/oxygen</eclipse-repo.url>
+		<eclipse-repo.url>http://download.eclipse.org/releases/photon</eclipse-repo.url>
 		<tycho-repo.url>https://oss.sonatype.org/content/groups/public/</tycho-repo.url>
 	</properties>
 
@@ -211,7 +211,7 @@
 						<baselineReplace>none</baselineReplace>
 						<baselineRepositories>
 							<repository>
-								<url>http://download.eclipse.org/eclipse/updates/4.7</url>
+								<url>http://download.eclipse.org/eclipse/updates/4.8</url>
 							</repository>
 							<repository>
 								<url>http://download.eclipse.org/tools/orbit/downloads/drops/updateSite/</url>
