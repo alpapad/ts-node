@@ -2,7 +2,7 @@
 <feature
       id="com.github.eclipse.nodejs.feature"
       label="Node JS Feature"
-      version="9.2.0.qualifier">
+      version="11.1.0.qualifier">
 
    <description url="https://nodejs.org/en/about/">
       About Node.js®

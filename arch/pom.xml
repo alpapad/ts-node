@@ -13,7 +13,7 @@
   <parent>
     <groupId>com.github.eclipse.nodejs</groupId>
     <artifactId>parent</artifactId>
-    <version>9.2.0-SNAPSHOT</version>
+    <version>11.1.0-SNAPSHOT</version>
   </parent>
   <artifactId>arch</artifactId>
   <packaging>pom</packaging>

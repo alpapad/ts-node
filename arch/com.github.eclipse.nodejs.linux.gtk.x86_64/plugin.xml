@@ -13,7 +13,7 @@
         <instance
               id="linux-x86_x4"
               max-old-space-size="8192"
-              name="Node V9.2.0"
+              name="Node V11.1.0"
               nodeJs="/bin/node"
               npm="/bin/npm"/>
      </extension>

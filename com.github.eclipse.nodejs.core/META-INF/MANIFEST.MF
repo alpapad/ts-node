@@ -3,7 +3,7 @@ Bundle-Localization: plugin
 Bundle-ManifestVersion: 2
 Bundle-Name: NodeJS Core
 Bundle-SymbolicName: com.github.eclipse.nodejs.core;singleton:=true
-Bundle-Version: 9.2.0.qualifier
+Bundle-Version: 11.1.0.qualifier
 Bundle-Activator: com.github.eclipse.nodejs.core.NodeJsCorePlugin
 Bundle-Vendor: The Node.js Foundation
 Bundle-RequiredExecutionEnvironment: JavaSE-1.8

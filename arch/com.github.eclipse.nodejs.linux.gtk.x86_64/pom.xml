@@ -4,7 +4,7 @@
 	<parent>
 		<groupId>com.github.eclipse.nodejs</groupId>
 		<artifactId>arch</artifactId>
-		<version>9.2.0-SNAPSHOT</version>
+		<version>11.1.0-SNAPSHOT</version>
 	</parent>
 	<artifactId>com.github.eclipse.nodejs.linux.gtk.x86_64</artifactId>
 	<packaging>eclipse-plugin</packaging>

@@ -2,7 +2,7 @@
     <extension point="com.github.eclipse.nodejs.core.nodeJs" >
         <instance
             id="win-x86"
-            name="Node V9.2.0"
+            name="Node V11.1.0"
             nodeJs="/bin/node.exe"
             npm="/bin/npm.cmd"
             max-old-space-size ="2048"

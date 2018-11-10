@@ -11,11 +11,6 @@
    </extension>
    <extension point = "org.eclipse.ui.preferencePages">
       <page
-            id="com.github.eclipse.nodejs.core.generalPreferencePage"
-            class="com.github.eclipse.nodejs.core.preferences.GeneralPreferencePage"
-            name="NodeJs binaries">
-      </page>
-      <page
             id="com.github.eclipse.nodejs.core.generalPreferencePageStd"
             category="com.github.eclipse.ts.core.generalPreferencePage"
             class="com.github.eclipse.nodejs.core.preferences.GeneralPreferencePage"
